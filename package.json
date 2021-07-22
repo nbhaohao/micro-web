@@ -1,0 +1,8 @@
+{
+  "name": "micro-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:nbhaohao/micro-web.git",
+  "author": "nbhaohao <nbhaohao@163.com>",
+  "license": "MIT"
+}
