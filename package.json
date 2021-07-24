@@ -3,6 +3,13 @@
   "version": "1.0.0",
   "main": "index.js",
   "repository": "git@github.com:nbhaohao/micro-web.git",
+  "scripts": {
+    "start": "node ./build/run.js",
+    "vue2": "cd vue2 && npm start",
+    "vue3": "cd vue3 && npm start",
+    "react15": "cd react15 && npm start",
+    "react16": "cd react16 && npm start"
+  },
   "author": "nbhaohao <nbhaohao@163.com>",
   "license": "MIT"
 }
